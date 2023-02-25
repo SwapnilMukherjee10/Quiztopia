@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205979530980",
+    "firebase_url": "https://quiztopia-52273-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quiztopia-52273",
+    "storage_bucket": "quiztopia-52273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205979530980:android:0579f731e2d305df79def1",
+        "android_client_info": {
+          "package_name": "com.mustang.quiztopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205979530980-9mlo6nldrnrvgef6r06f8e43tnlcrcba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mustang.quiztopia",
+            "certificate_hash": "834281b70c97d1dbd786c83672f44f4400a91a99"
+          }
+        },
+        {
+          "client_id": "205979530980-2tchr97pi3s2tbmmqfjfsak0g5qqhasq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdntmSLhBatwGiy47cqprUYq2ccEDVRjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205979530980-2tchr97pi3s2tbmmqfjfsak0g5qqhasq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
